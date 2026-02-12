@@ -172,5 +172,6 @@ body {
     .content .tagline {
     justify-self: end;
     padding-top: 0px;
+    padding-bottom: 30px;
 }
 }
