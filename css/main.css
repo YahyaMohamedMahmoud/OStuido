@@ -167,7 +167,7 @@ body {
 
     .tagline {
         font-size: 11px;
-        margin-top: 30px;
+        margin-top: 0px;
     }
     .content .tagline {
     justify-self: end;
