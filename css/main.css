@@ -166,7 +166,11 @@ body {
     }
 
     .tagline {
-        font-size: 12px;
-        margin-top: 30px;
+        font-size: 11px;
+        margin-top: 0px;
     }
+    .content .tagline {
+    justify-self: end;
+    padding-top: 0px;
+}
 }
